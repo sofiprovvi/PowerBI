@@ -1,0 +1,27 @@
+Tema: Actividades de I+D
+Subtema: Inversión en I+D
+Responsable: Dirección de Estudios y Estadísticas Nacionales, Dirección Nacional de Información y Estudios, Subsecretaría de Ciencia y Tecnología de la Nación.
+Correo electrónico: deyen@sicyt.gob.ar
+Frecuencia de actualización: anual
+Fuente: Relevamiento anual a entidades que realizan Actividades Científicas y Tecnológicas (RACT) y Encuesta sobre I+D del sector empresario argentino (ESID)
+
+Descripción
+Este dataset permite analizar y comparar la evolución interanual de los recursos financieros y activos fijos 
+(tales como terrenos, edificios, maquinaria y equipo) destinados a la realización de actividades de investigación y desarrollo experimental 
+(I+D) en el país, divididos según los distintos sectores de ejecución: universidades públicas y privadas, organismos públicos de ciencia y tecnología, 
+empresas y entidades sin fines de lucro. Los datos se relevan a año vencido, es decir que durante el año en curso se relevan los datos del año anterior 
+y los mismos se publican al año siguiente.
+
+Glosario:
+- Investigación y desarrollo experimental (I+D): conjunto de trabajos creativos llevados a cabo en forma sistemática para incrementar el volumen de conocimientos, incluido el conocimiento del hombre, la cultura y la sociedad, y el uso de estos para derivar nuevas aplicaciones. De esta manera, la I+D comprende investigación básica, investigación aplicada y desarrollo experimental.
+- Sector de ejecución: sectores donde se desarrollan las actividades de I+D, pueden ser:
+- Empresas: firmas que realizan fundamentalmente investigación aplicada y desarrollo experimental destinado a la producción de bienes. 
+Sus objetivos se relacionan no solo con la creación de nuevos productos para el mercado, sino también con la disminución de costos, 
+tiempos de fabricación y mejoramiento de la calidad de los tradicionalmente fabricados con la finalidad de aumentar las ventas y/o el beneficio.
+- Entidades sin fines de lucro: este grupo comprende, entre otras, asociaciones, sociedades y fundaciones que realizan algún tipo de actividad de CyT. 
+El objetivo de la investigación no es el lucro. Cumplen una importante función en la prestación de servicios tecnológicos como ser la difusión de ACyT.
+-Organismos públicos de ciencia y tecnología: corresponden a instituciones de la Administración Pública Nacional o Provincial que total o parcialmente llevan a cabo actividades de ciencia y tecnología.
+-Universidades privadas: instituciones responsables de la educación superior privada. En las mismas la investigación es también un complemento de la actividad docente.
+-Universidades públicas: instituciones responsables de la educación superior pública (nacional o provincial). En las mismas la investigación es realizada por profesores con dedicación exclusiva o parcial,
+usualmente como complemento de sus tareas docentes.
+
